@@ -1,0 +1,33 @@
+_repo: The-Expert-Maid-Servant_43042
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43042-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Herrick, Christine Terhune
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '37734'
+    url: http://www.gutenberg.org/2009/agents/37734
+    wikipedia: http://en.wikipedia.org/wiki/Christine_Terhune_Herrick
+description: There has been a resurgence of interest in early-twentieth-century domestic
+  service of late, due in large part to the remarkable popularity of the television
+  series Downton Abbey. Many of the real-life analogues of the characters on that
+  show probably owned a well-thumbed copy of Cristine Terhune Herrick's The Expert
+  Maid-Servant, a comprehensive guide for those in service. The book offers a fascinating
+  glimpse into the lives and responsibilities of maids and other household help ...
+gutenberg_issued: '2013-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43042'
+  lccn: 04027876
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Household employees'
+- !lcc 'TX'
+title: The Expert Maid-Servant
+url: http://www.gutenberg.org/ebooks/43042
